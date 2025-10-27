@@ -30,6 +30,7 @@ go run ./cmd/server
 Создана база данных pz6_gorm для работы с ORM GORM.
 2. Структура проекта
 
+```bash
 pz6-gorm
     │   go.mod
     │   go.sum
@@ -50,6 +51,7 @@ pz6-gorm
         └───models
                 models.go
 
+```
 3. Модели и связи
 
 Реализованы модели со связями:
